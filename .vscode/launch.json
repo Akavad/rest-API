@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestApiApplication<restapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.vojislavk.restapi.RestApiApplication",
+            "projectName": "restapi",
+            "args": ""
+        }
+    ]
+}
